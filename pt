@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Manual Essencial de Sobrevivência e Primeiros Socorros Urbana para Iniciantes. Pré-venda aberta! Versão impressa, digital e áudio.">
+    <title>Manual Essencial de Sobrevivência</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+        header { background: #b30000; color: #fff; padding: 2rem; text-align: center; }
+        header h1 { margin: 0; font-size: 2rem; }
+        section { padding: 2rem; max-width: 800px; margin: auto; background: #fff; margin-bottom: 1rem; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h2 { color: #b30000; }
+        ul { list-style: none; padding: 0; }
+        ul li::before { content: "✔️ "; }
+        form input, form label { display: block; width: 100%; margin: 0.5rem 0; padding: 0.5rem; }
+        form input[type="submit"] { background: #b30000; color: #fff; border: none; cursor: pointer; }
+        footer { text-align: center; padding: 1rem; background: #222; color: #fff; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Manual Essencial de Sobrevivência e Primeiros Socorros</h1>
+    <p>Porque estar preparado é cuidar de quem se ama</p>
+    <p>📍 Adaptado à realidade portuguesa | Por A. Batista</p>
+</header>
+
+<section>
+    <h2>Está Preparado?</h2>
+    <p>E se um sismo, apagão ou crise de saúde pública acontecesse hoje?<br> A maioria das pessoas não sabe o que fazer. Este manual vai mudar isso.</p>
+    <ul>
+        <li>Para famílias urbanas</li>
+        <li>Para cuidadores de crianças, idosos ou animais</li>
+        <li>Para qualquer pessoa que queira proteger-se em tempos incertos</li>
+    </ul>
+</section>
+
+<section>
+    <h2>O que vai encontrar no manual?</h2>
+    <ul>
+        <li>Como reagir nos primeiros segundos</li>
+        <li>Kit de emergência e plano familiar por tipo de desastre</li>
+        <li>Primeiros socorros simplificados e improvisados</li>
+        <li>Como comunicar sem internet nem eletricidade</li>
+        <li>Exercícios, jogos, mapas e cartões à prova de água</li>
+        <li>Versão impressa, digital e áudio</li>
+    </ul>
+    <p>🎧 Inclui versão áudio para ouvir no escuro</p>
+    <p>📄 Amostra grátis de 5 páginas após inscrição</p>
+</section>
+
+<section>
+    <h2>Para quem é este manual?</h2>
+    <ul>
+        <li>Tens uma família e queres proteger os teus</li>
+        <li>Já pensaste "e se...?" mas não sabes por onde começar</li>
+        <li>Vives em zonas urbanas e queres rotinas preventivas simples</li>
+        <li>Queres ter ferramentas para manter a calma em qualquer emergência</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Pré-venda | Recebe uma Amostra Grátis</h2>
+    <form>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="distrito">Distrito:</label>
+        <input type="text" id="distrito" name="distrito">
+
+        <label>Prefere versão:</label>
+        <input type="checkbox" name="versao" value="digital"> Digital
+        <input type="checkbox" name="versao" value="impressa"> Impressa
+        <input type="checkbox" name="versao" value="ambas"> Ambas
+
+        <input type="submit" value="Quero Receber!">
+    </form>
+    <p>Ou envie email para: <strong>sobrevivencia.manual.pt@gmail.com</strong></p>
+</section>
+
+<footer>
+    © 2025 Manual Essencial de Sobrevivência | A. Batista | Todos os direitos reservados
+</footer>
+
+</body>
+</html>
